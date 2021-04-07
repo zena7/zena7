@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Skills: JS / HTML / CSS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zena7)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zena7&show_icons=true&count_private=true)
+
 <!--
 **zena7/zena7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
