@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m currently studying at [Rolling Scopes School](https://github.com/rolling-scopes-school)
+⚡ I’m currently studying at [Rolling Scopes School](https://github.com/rolling-scopes-school)
+
+🔭 I’m looking to collaborate on companies, where I can be effective
 
 Skills: JS / HTML / CSS
 
