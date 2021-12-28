@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently studying at [Rolling Scopes School](https://github.com/rolling-scopes-school)
+
 Skills: JS / HTML / CSS
 
 
