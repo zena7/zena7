@@ -4,7 +4,7 @@
 
 🔭 I’m looking to collaborate on companies, where I can be effective
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / SASS / REACT
 
 
 
