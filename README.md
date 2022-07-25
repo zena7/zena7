@@ -12,7 +12,7 @@ Contact me: https://www.linkedin.com/in/nataly-zernova/
 ### My projects
 | Project repository   |Project Deploy  | Description |
 | ----------- | ----------- | ----------- |
-| [Travel]()     | [Travel]()       |My first project during the RollingScopesSchool courses JavaScript/Front-end. The project is written in HTML, CSS and vanilla JS.  adaptive
+| [Travel]()     | [Travel](https://rolling-scopes-school.github.io/zena7-JSFEPRESCHOOL2022Q2/travel/#destinations)       |My first project during the RollingScopesSchool courses JavaScript/Front-end. The project is written in HTML, CSS and vanilla JS.  adaptive
 
 
 <!--
