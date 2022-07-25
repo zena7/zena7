@@ -9,6 +9,7 @@ Skills: JS / HTML / CSS / SASS / REACT
 
 Contact me: https://www.linkedin.com/in/nataly-zernova/
 
+### MY PROGECT
 
 
 
