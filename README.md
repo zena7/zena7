@@ -12,7 +12,7 @@ Contact me: https://www.linkedin.com/in/nataly-zernova/
 ### My projects
 | Project repository   |Project Deploy  | Description |
 | ----------- | ----------- | ----------- |
-| [Travel]()     | [Travel](https://rolling-scopes-school.github.io/zena7-JSFEPRESCHOOL2022Q2/travel/)       |My first project during the Rolling Scopes School courses JavaScript/Front-end. The project is written in HTML, CSS and vanilla JS.  Implemented adaptability of mobile (added burger menu at 390px screen resolution) and desktop version.
+| [Travel](https://github.com/zena7/travel)| [Travel](https://rolling-scopes-school.github.io/zena7-JSFEPRESCHOOL2022Q2/travel/)       |My first project during the Rolling Scopes School courses JavaScript/Front-end. The project is written in HTML, CSS and vanilla JS.  Implemented adaptability of mobile (added burger menu at 390px screen resolution) and desktop version.
 | | [Momentum](https://teal-lamington-6f0e45.netlify.app) |A copy of an [extension](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) featuring audio player, weather, inspirational quotes, background images. |
 
 
