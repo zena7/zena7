@@ -1,10 +1,4 @@
-### Hi there 👋
-
-⚡ I’m currently studying at [Rolling Scopes School](https://github.com/rolling-scopes-school)
-
-🔭 I’m looking to collaborate on companies, where I can be effective
-
-Skills: JS / HTML / CSS / SASS / REACT
+### Hi there 
 
 ### 🤝 Connect with me
 [<img alt="acc in LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nataly-zernova/)
