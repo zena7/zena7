@@ -7,7 +7,7 @@
 Skills: JS / HTML / CSS / SASS / REACT
 
 ### 🤝 Connect with me
-[<img alt="acc in LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/nataly-zernova/]
+[<img alt="acc in LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin)
 
 
 ### My projects
@@ -17,3 +17,6 @@ Skills: JS / HTML / CSS / SASS / REACT
 | | [Momentum](https://teal-lamington-6f0e45.netlify.app) |Desktop application - Momentum, analogue of the [Chrome Web Store application](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) of the same name. It includes audio player, weather, inspirational quotes, background images.
 |[Online Store](https://github.com/zena7/online-store)|[Online store](https://zena-mishamgla-onlinestore.netlify.app/)| This app is a team project built with React, Redux, RTK Query, Type Script.
 |[Cat's pinterest](https://github.com/zena7/frontend-challenge)| [Cat's pinterest](https://deploy-preview-8--zena-cats.netlify.app/)|
+
+
+[linkedin] : https://www.linkedin.com/in/nataly-zernova/
